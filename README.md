@@ -15,9 +15,11 @@
 Boolean have decided to manage the online shops stock via a WebApi.  You will be responsible for building this.
 
 ## Core 
+- Dockerize the WebApi and the Postgres instance when you have completed the Api.  __Do not use ElephantSql for this exercise__.
 - Create endpoints in the project to GET/POST/PUT/DELETE a Product
-- Seed the database with the original products and add some more if you wish  
-- Dockerize the WebApi and the Postgres instance.  __Do not use ElephantSql for this exercise__.
+- Seed the database with the original products and add some more if you wish
+- Add any models, packages and code you feel necessary
+- Write clean code and use XML comments where applicable
 
 ## Extension
 - Secure this api using Jwt Authentication
